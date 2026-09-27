@@ -17,8 +17,10 @@ git clone [https://github.com/oskardaw/http-cors-security-scanner.git](https://g
 cd http-cors-security-scanner
 pip install -r requirements.txt
 
+Usage
 python scanner.py -u [https://example.com](https://example.com)
 
+Example Output
 [*] Scanning target: [https://example.com](https://example.com)
 
 [+] Missing Security Headers:
